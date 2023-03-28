@@ -1,4 +1,4 @@
-package ru.yandex.practicum.controllers;
+package com.practicum.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
